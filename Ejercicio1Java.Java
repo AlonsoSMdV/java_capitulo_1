@@ -4,5 +4,6 @@ public class Ejercicio1Java {
         Scanner sc = new Scanner(System.in);
         System.out.print("Introduzca su nombre: ");
         String nombre = sc.next();
+        System.out.print("Buenas "+nombre);
     }
 }
