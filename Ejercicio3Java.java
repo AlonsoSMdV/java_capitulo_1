@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/**
+* Muestra por pantalla las siguientes traducciones
+*
+* 
+*/
 public class Ejercicio3Java {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

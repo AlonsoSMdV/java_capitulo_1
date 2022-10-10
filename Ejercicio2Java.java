@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/**
+* Muestra por pantalla tu nombre,dirección y número de teléfono
+*
+* 
+*/
 public class Ejercicio2Java {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
